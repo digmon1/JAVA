@@ -4,6 +4,8 @@ class BitwiseOP{
 		System.out.println(5&6);
 		System.out.println(5|6);
 		System.out.println(5^6);
+		System.out.println(10<<3);
+		System.out.println(-10<<2);
 		
 		
 	}
