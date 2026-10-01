@@ -1,0 +1,2 @@
+// Any five program using all three input concepts
+// Any three progrms based on switch case
